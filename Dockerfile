@@ -7,3 +7,4 @@ USER root
 
 # cleanups
 RUN yes | pacman -Scc
+USER user
